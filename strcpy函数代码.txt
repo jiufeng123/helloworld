@@ -20,6 +20,6 @@ char* StrCpy(char* src)
 	return *p2;
 }
 /**
-远程edit
+本地编辑
 Remote edit B20032308王哲涵
 **/
